@@ -1,0 +1,36 @@
+
+
+nav span{
+  display: inline-block;
+  justify-content: row-reverse;
+  colour: black;
+}
+
+/* header */
+header{
+  display: flex;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  border-bottom: 1px solid black;
+  font-family:sans-serif;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+
+}
+.logo img{
+  align-items:center;
+
+}
+.logo span{
+  color:mediumAquamarine;
+  align-items: center;
+  padding: 14px;
+}
